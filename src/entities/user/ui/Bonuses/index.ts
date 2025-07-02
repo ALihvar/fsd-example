@@ -1,1 +1,1 @@
-export * from './Bonuses'; 
+export { Bonuses } from './Bonuses';

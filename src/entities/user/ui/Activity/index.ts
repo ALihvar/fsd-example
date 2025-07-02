@@ -1,1 +1,1 @@
- 
+export { Activity } from './Activity';
